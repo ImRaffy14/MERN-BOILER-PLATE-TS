@@ -1,7 +1,7 @@
 
 # MERN-BOILER-PLATE-TS
 
-A modern, production-ready **MERN (MongoDB, Express, React, Node.js)** fullstack boilerplate built with **TypeScript**. This repository is designed to help developers quickly bootstrap scalable applications with a clean architecture, modular structure, and essential features already integrated.
+A modern **MERN (MongoDB, Express, React, Node.js)** fullstack boilerplate built with **TypeScript**. This repository is designed to help developers quickly bootstrap scalable applications with a clean architecture, modular structure, and essential features already integrated.
 
 ---
 
